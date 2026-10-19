@@ -1,0 +1,6 @@
+This is a full Android Studio Gradle project.
+Minimum SDK: Android 10 / API 29.
+Target SDK: 35.
+No third-party runtime UI dependencies are required.
+Open the root folder in Android Studio and allow Gradle to sync.
+A pre-generated Gradle wrapper JAR is not included in this package; Android Studio can configure the wrapper automatically, or run with a local Gradle 8.11.1 installation.
